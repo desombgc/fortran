@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desombgc
 - 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning PHYSICS MAJOR 
-- 💞️ I’m looking to collaborate on Coders😇❤
+- 🌱 I’m currently pursuing PHYSICS MAJOR 
+
 - 📫 How to reach me desomoct27@gmail.com
 
 <!---
